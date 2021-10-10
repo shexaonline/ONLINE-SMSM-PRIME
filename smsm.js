@@ -124,22 +124,22 @@ const smsm120 = new Discord.Client();
 
 ///////////////////
 smsm.on("ready", () => {
-    var join = smsm.channels.get("876852169666613258"); /// id voice
+    var join = smsm.channels.get("869546494213099521"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm2.on("ready", () => {
-    var join = smsm2.channels.get(""); /// id voice
+    var join = smsm2.channels.get("869546494213099521"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm3.on("ready", () => {
-    var join = smsm3.channels.get(""); /// id voice
+    var join = smsm3.channels.get("869546494213099521"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm4.on("ready", () => {
-    var join = smsm4.channels.get(""); /// id voice
+    var join = smsm4.channels.get("869546494213099521"); /// id voice
     if (join) join.join();
   });
 ///////////////////

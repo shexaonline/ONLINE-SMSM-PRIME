@@ -2935,10 +2935,10 @@ smsm120.on("ready", () => {
 
 //////////////// token lera dabne/////////
 
-smsm.login("");
-smsm2.login("");
-smsm3.login("");
-smsm4.login("");
+smsm.login("ODk2ODA1NDY1Nzc2ODY5NDQ2.YWMdYg.BiPLN76xXNzubcP8D_GFkOf0hdA");
+smsm2.login("ODk2ODA1MDA3MTQyMzE4MTEx.YWMdEA.dLkebgTWlm8Y0_bIemJX4kECk3c");
+smsm3.login("ODk2ODA0MjIyNTk3NzM0NDAx.YWMcPw.jKMCHMEvAaeDsWMyG__4VagMkbQ");
+smsm4.login("ODk2ODAzMzU4MzMyMDM1MDgy.YWMb6w.gLj4h9xU34pTfMhXGbkBnAWt-_0");
 smsm5.login("");
 smsm6.login("");
 smsm7.login("");

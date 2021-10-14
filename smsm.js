@@ -129,17 +129,17 @@ smsm.on("ready", () => {
   });
 ///////////////////
 smsm2.on("ready", () => {
-    var join = smsm2.channels.get("869546494213099521"); /// id voice
+    var join = smsm2.channels.get(""); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm3.on("ready", () => {
-    var join = smsm3.channels.get("869546494213099521"); /// id voice
+    var join = smsm3.channels.get(""); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm4.on("ready", () => {
-    var join = smsm4.channels.get("869546494213099521"); /// id voice
+    var join = smsm4.channels.get(""); /// id voice
     if (join) join.join();
   });
 ///////////////////
@@ -2935,10 +2935,10 @@ smsm120.on("ready", () => {
 
 //////////////// token lera dabne/////////
 
-smsm.login("ODk2ODA1NDY1Nzc2ODY5NDQ2.YWMdYg.BiPLN76xXNzubcP8D_GFkOf0hdA");
-smsm2.login("ODk2ODA1MDA3MTQyMzE4MTEx.YWMdEA.dLkebgTWlm8Y0_bIemJX4kECk3c");
-smsm3.login("ODk2ODA0MjIyNTk3NzM0NDAx.YWMcPw.jKMCHMEvAaeDsWMyG__4VagMkbQ");
-smsm4.login("ODk2ODAzMzU4MzMyMDM1MDgy.YWMb6w.gLj4h9xU34pTfMhXGbkBnAWt-_0");
+smsm.login("ODk4MzMzNDQyNzk2ODE4NDQy.YWishQ.WKkYTeGNSpaSntFgAa4lrEHU2LE");
+smsm2.login("");
+smsm3.login("");
+smsm4.login("");
 smsm5.login("");
 smsm6.login("");
 smsm7.login("");
